@@ -1,6 +1,6 @@
 # My Notepad 📝
 
-![My Notepad Screenshot](.\screenshot.png)
+![My Notepad Screenshot](screenshot.png)
 
 A simple and functional text editor built with **Python** and **Tkinter**.
 
